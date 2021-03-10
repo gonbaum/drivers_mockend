@@ -1,7 +1,7 @@
 {
   "Drivers": {
-    "id": "1",
-    "time": "8.30",
-    "available": "true"
+    "id": "string",
+    "time": "string",
+    "available": "boolean"
   }
 }
